@@ -15,4 +15,5 @@ Skill to be used to finish the project
     - Images
     - headings
     - Paragraphs
+    - Unordered and Ordered list
     - Etc.
