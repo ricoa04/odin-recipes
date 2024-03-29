@@ -17,3 +17,5 @@ Skill to be used to finish the project
     - Paragraphs
     - Unordered and Ordered list
     - Etc.
+
+    Disclaimer: No copyright infringement intended, photos and files belong to the rightful owners.
