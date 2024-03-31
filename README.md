@@ -1,7 +1,9 @@
 # odin-recipes
 My First HTML project
 
-Skill to be used to finish the project
+I will update this everytime i learn new things
+
+Skills to be used to finish the project
 * Git
     - git commands using CLI
 * Github
@@ -17,5 +19,10 @@ Skill to be used to finish the project
     - Paragraphs
     - Unordered and Ordered list
     - Etc.
+* CSS
+    - basics
+    - cascade
+    - inserting css to HTML
+    - The Box Model
 
     Disclaimer: No copyright infringement intended, photos and files belong to the rightful owners.
